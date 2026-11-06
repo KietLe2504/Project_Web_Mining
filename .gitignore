@@ -3,3 +3,5 @@ node2vec.ipynb
 music.db
 __pycache__/
 .venv/
+data/
+*.html
